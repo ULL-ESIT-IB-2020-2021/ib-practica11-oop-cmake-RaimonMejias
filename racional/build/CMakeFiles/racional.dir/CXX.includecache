@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usuario/practicas/practica11/ib-practica11-oop-cmake-RaimonMejias/racional/src/racional_functions.cc
+fstream
+-
+iostream
+-
+numeric
+-
+racional_functions.h
+/home/usuario/practicas/practica11/ib-practica11-oop-cmake-RaimonMejias/racional/src/racional_functions.h
+
+/home/usuario/practicas/practica11/ib-practica11-oop-cmake-RaimonMejias/racional/src/racional_functions.h
+
+/home/usuario/practicas/practica11/ib-practica11-oop-cmake-RaimonMejias/racional/src/racional_main.cc
+fstream
+-
+iostream
+-
+string
+-
+racional_functions.h
+/home/usuario/practicas/practica11/ib-practica11-oop-cmake-RaimonMejias/racional/src/racional_functions.h
+

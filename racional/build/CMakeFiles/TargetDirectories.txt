@@ -1,0 +1,4 @@
+/home/usuario/practicas/practica11/ib-practica11-oop-cmake-RaimonMejias/racional/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/practicas/practica11/ib-practica11-oop-cmake-RaimonMejias/racional/build/CMakeFiles/edit_cache.dir
+/home/usuario/practicas/practica11/ib-practica11-oop-cmake-RaimonMejias/racional/build/CMakeFiles/racional.dir
+/home/usuario/practicas/practica11/ib-practica11-oop-cmake-RaimonMejias/racional/build/CMakeFiles/doc.dir
